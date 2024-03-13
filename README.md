@@ -1,4 +1,4 @@
-# A series of Zero SHot Projects for Deep Learning 
+# A series of Zero Shot Projects for Deep Learning 
 ### Project 1: Implementation of a zero-shot object detection with Meta AI's Segment Anything Model (SAM) and MLFoundation's OpenCLIP.
   - For this project, Segment Anything Model was used to identify bounding boxes of objects in images 
   - Using the 80 categories from the COCO dataset, I created a prompt to be tokenized and used to identify the images in OpenCLIP.
